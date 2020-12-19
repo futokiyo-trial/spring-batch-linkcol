@@ -13,7 +13,7 @@ SpringBatch参考文献リンク集
 
 [JobRepositoryのテーブル設計](https://github.com/spring-projects/spring-batch/tree/master/spring-batch-core/src/main/resources/org/springframework/batch/core)
 
-[JobRepositoryのインデックス](JobRepositoryのインデックス)
+[JobRepositoryのインデックス](https://docs.spring.io/spring-batch/docs/current/reference/html/schema-appendix.html#recommendationsForIndexingMetaDataTables)
 
 [SpringBatchのJobRepositoryのPurgeHowTo](https://github.com/arey/spring-batch-toolkit/blob/master/src/main/java/com/javaetmoi/core/batch/tasklet/RemoveSpringBatchHistoryTasklet.java)
 
