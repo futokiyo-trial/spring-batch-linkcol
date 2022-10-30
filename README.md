@@ -49,3 +49,15 @@ SpringBatch参考文献リンク集
 
 [The Definitive Guide to Spring Batch: Modern Finite Batch Processing in the Cloud (English Edition) Kindle版 (電子書籍)](https://www.amazon.co.jp/Definitive-Guide-Spring-Batch-Processing-ebook/dp/B07V57NTT1)
 
+[Spring Fest 2021 Spring FrameworkはJavaの代表的なアプリケーションフレームワークであり、世界中の多くのJavaアプリケーションで利用されています。ユーザ間での情報交換・交流の場を提供し、さらなるSpring Frameworkの認知度の向上、普及促進を図るため、本カンファレンスを開催いたします。 - 2021.12.03 ](https://springfest2021.springframework.jp/)
+
+[Fest2021 sf_7 Spring Batchでサブスク1億件のクレカ決済処理 - 2021.12.03 ](https://www.youtube.com/watch?v=PzbVcLX1ki4)
+
+[Spring Batch でサブスク1億件のクレカ決済処理【JJUG CCC 2021 Fall登壇】 - 2022/03/22](https://www.gmo-pg.com/blog/articles/article-0069/)
+
+[【オンライン】 JJUG CCC 2021 Fall 発表資料・動画まとめ - 分かりやすい技術ブログ 2021/11/21](https://sun0range.com/event-report/jjug-ccc-2021-fall/)
+
+[JJUG CCC 2021 Fall ( #jjug_ccc ) - セッション資料の一覧 - 地平線に行く 2021-11-21](https://yujisoftware.hatenablog.com/entry/jjug_ccc_2021_fall)
+
+[What’s New in Spring Batch 5.0 - 2022-01-19](https://docs.spring.io/spring-batch/docs/5.0.0-SNAPSHOT/reference/html/whatsnew.html)
+
