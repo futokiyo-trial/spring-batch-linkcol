@@ -61,3 +61,10 @@ SpringBatch参考文献リンク集
 
 [What’s New in Spring Batch 5.0 - 2022-01-19](https://docs.spring.io/spring-batch/docs/5.0.0-SNAPSHOT/reference/html/whatsnew.html)
 
+[はじめてのSpring Batch - CLOVER🍀  2022-04-24](https://kazuhira-r.hatenablog.com/entry/2022/04/24/211843)
+
+[Spring BatchのトランザクションがRuntimeExceptionでもException（検査例外）でもロールバックすることを確認する - CLOVER🍀 2022-05-27](https://kazuhira-r.hatenablog.com/entry/2022/05/27/020741)
+
+
+
+
