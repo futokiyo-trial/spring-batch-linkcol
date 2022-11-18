@@ -65,6 +65,15 @@ SpringBatch参考文献リンク集
 
 [Spring BatchのトランザクションがRuntimeExceptionでもException（検査例外）でもロールバックすることを確認する - CLOVER🍀 2022-05-27](https://kazuhira-r.hatenablog.com/entry/2022/05/27/020741)
 
+[CSVファイルの内容をDBに書き込む前にファイルの文字コードを判定してみた](https://www.purin-it.com/timer-trigger-batch-character-code)
+
+[TimerTriggerによって動作するAzure Function上でSpring Batch(Taskletモデル)を利用してみた](https://www.purin-it.com/azure-functions-spring-batch-tasklet)
+
+[FunctionsのManaged Identityに対してStorageのRBACを構成すれば、SASトークンを発行する必要はないですね。](https://twitter.com/Logico_jp/status/1591968502042460160)
+
+[TimerTriggerによって動作するAzure Function上でSpring Batch(Chunkモデル)を利用してみた](https://www.purin-it.com/azure-functions-spring-batch-chunk)
+
+[Azure Function上のSpring Batch(Chunkモデル)でマルチスレッド設定をしてみた](https://www.purin-it.com/azure-functions-chunk-multi-thread)
 
 
 
