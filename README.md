@@ -29,6 +29,8 @@ SpringBatch参考文献リンク集
 
 [TERASOLUNA Batch Framework for Java (5.x) Development Guideline | NTT DATA Corporation](https://terasoluna-batch.github.io/guideline/current/ja/index.html)
 
+[Spring Batchのアーキテクチャ - TERASOLUNA Batch Framework for Java (5.x) Development Guideline | NTT DATA Corporation](https://terasoluna-batch.github.io/guideline/current/ja/Ch02_SpringBatchArchitecture.html#Ch02_SpringBatchArch)
+
 [Macchinetta Batch Framework (2.x) Development Guideline Spring Batchのアーキテクチャ | NTT Corporation](https://macchinetta.github.io/batch-guideline/current/ja/Ch02_SpringBatchArchitecture.html)
 
 [SpringBatchを実案件で活用するための10のプラクティス](https://qiita.com/nyasba/items/2dd9503edafc643fb786)
